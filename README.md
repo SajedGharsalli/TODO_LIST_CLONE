@@ -13,9 +13,9 @@ This project is a simple TO-DO list clone built using Flutter, a popular cross-p
 ## Getting Started 
   To run the TODO list clone project on your local machine, follow these steps:
   1. **Prerequisites**: Ensure that you have Flutter and Dart SDK installed on your machine. If not, follow the official [Flutter installation guide](https://docs.flutter.dev/get-started/install)
-  2. **Clone the repository**: Clone this repository to your local machine using the following command: `git clone https://github.com/SajedGharsalli/TODO_LIST_CLONE`
-  3. **Navigate to the project directory**: Use the following command to navigate to the project directory: `cd TODO_LIST_CLONE`
-  4. Run the app: Launch the app on a connected device or emulator by running the following command: `flutter run`
+  2. **Clone the repository**: Clone this repository to your local machine using the following command: ```git clone https://github.com/SajedGharsalli/TODO_LIST_CLONE```
+  3. **Navigate to the project directory**: Use the following command to navigate to the project directory: ```cd TODO_LIST_CLONE```
+  4. Run the app: Launch the app on a connected device or emulator by running the following command: ```flutter run```
   
 ## Dependencies
   The project uses the following dependencies:
